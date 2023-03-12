@@ -1,0 +1,11 @@
+Feature,Number of Splits,Feature Description
+X46,543,X46 (current assets - inventory) / short-term liabilities
+X58,483,X58 total costs /total sales
+X27,470,X27 profit on operating activities / financial expenses
+X34,370,X34 operating expenses / total liabilities
+X5,332,X5 [(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365
+X24,316,X24 gross profit (in 3 years) / total assets
+X21,292,X21 sales (n) / sales (n-1)
+X29,282,X29 logarithm of total assets
+X55,234,X55 working capital
+X40,229,X40 (current assets - inventory - receivables) / short-term liabilities

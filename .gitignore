@@ -1,0 +1,13 @@
+.ruff_cache
+__pycache__
+problem_1/misc
+raw_data
+raw_data/
+venv
+
+problem_2/models
+problem_2/models/
+*.pt
+*.pkl
+problem_2/data
+problem_2/data/

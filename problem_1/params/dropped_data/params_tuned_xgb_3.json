@@ -1,0 +1,13 @@
+{
+    "colsample_bytree": 0.8672782438988831,
+    "eval_metric": "aucpr",
+    "gamma": 0.0375406371402512,
+    "learning_rate": 0.06257069519067437,
+    "max_depth": 10,
+    "min_child_weight": 75,
+    "n_jobs": -1,
+    "objective": "binary:logistic",
+    "reg_alpha": 1.135520347782652e-06,
+    "reg_lambda": 1.3612036935986593,
+    "subsample": 0.9620613743859985
+}

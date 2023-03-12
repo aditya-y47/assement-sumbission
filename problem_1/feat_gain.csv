@@ -1,0 +1,11 @@
+Feature,Total Gain,Feature Description
+X27,86037.14923783811,X27 profit on operating activities / financial expenses
+X34,29500.20541457832,X34 operating expenses / total liabilities
+X46,23922.0891357027,X46 (current assets - inventory) / short-term liabilities
+X5,22065.162026703358,X5 [(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365
+X25,18571.320399731398,X25 (equity - share capital) / total assets
+X21,17459.685224501416,X21 sales (n) / sales (n-1)
+X58,14241.129991180263,X58 total costs /total sales
+X24,10907.918790280819,X24 gross profit (in 3 years) / total assets
+X39,8673.43333492428,X39 profit on sales / sales
+X56,7436.436504296958,X56 (sales - cost of products sold) / sales
